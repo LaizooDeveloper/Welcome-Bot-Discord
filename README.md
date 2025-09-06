@@ -20,4 +20,4 @@ node index.js
 
 # Welcome Bot Discord 👋
 
-![Welcome Screenshot](https://imgur.com/o0LG6FB)
+![Welcome Screenshot](https://i.imgur.com/o0LG6FB.png)
