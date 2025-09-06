@@ -20,5 +20,5 @@ node index.js
 
 # Welcome Bot Discord 👋
 
-![Welcome Screenshot](./assets/screenshot.png)
+![Welcome Screenshot](assets/screenshot.png)
 
