@@ -29,3 +29,8 @@ npm i discord.js
 
 # 4. Start the bot
 node index.js
+```
+
+---
+## Screenshot
+![Welcome Screenshot](https://github.com/username/repo/blob/main/assets/screenshot.png?raw=true)
