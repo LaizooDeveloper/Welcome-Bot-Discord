@@ -17,3 +17,7 @@ npm i discord.js
 
 # Start the bot
 node index.js
+
+# Welcome Bot Discord 👋
+
+![Welcome Screenshot](https://imgur.com/o0LG6FB)

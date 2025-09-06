@@ -7,9 +7,9 @@ const client = new Client({
     ]
 });
 
-const GUILD_ID = "123456789012345678";
+const GUILD_ID = "779300813901135883";
 
-const WELCOME_CHANNEL_ID = "123456789012345678";
+const WELCOME_CHANNEL_ID = "1405925936901394534";
 
 client.on("guildMemberAdd", member => {
     if (member.guild.id !== GUILD_ID) return;
